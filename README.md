@@ -1,3 +1,3 @@
 # amazon_clone
 
-This is Ammazon clone Project.
+This is Amazon clone Project.
